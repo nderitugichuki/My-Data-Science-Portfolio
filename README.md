@@ -1,4 +1,4 @@
-# DATA Science PORTFOLIO
+# DATA SCIENCE PORTFOLIO
 ## Welcome to my Data Science Portfolio
 
 I am a dedicated **Data Scientist** with hands-on experience in applying advanced analytical techniques to solve complex problems and drive business insights. My expertise spans **machine learning**, **data analytics**, and **data engineering**, with a strong proficiency in Python, SQL, and Power BI tools. I am also keenly interested in building scalable data solutions and creating impactful predictive models.
